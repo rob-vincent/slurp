@@ -9,7 +9,7 @@ const Delivery = () => {
         <FaMotorcycle />
         <h3>Motorcycle</h3>
         <h5>Up to: 20kg</h5>
-        <p>Standard door-to-door deliveries</p>
+        <p>Door-to-door deliveries</p>
         <p>
           Lorem ipsum dolor sit amet consectetur adipisicing elit. Optio debitis quibusdam voluptas itaque eveniet
           corrupti quos repudiandae reiciendis iusto dolor?
@@ -47,7 +47,7 @@ const Wrapper = styled.div`
     no-repeat center center / cover;
   padding-top: 2rem;
   .card {
-    flex: 0 0 15rem;
+    flex: 0 0 16rem;
     margin: 2rem;
     height: 20rem;
     text-align: center;
@@ -67,11 +67,6 @@ const Wrapper = styled.div`
       padding: 1rem 1rem 0.25rem 1rem;
     }
   }
-  /* @media (max-width: 290px) {
-    .card {
-      flex-shrink: 1;
-    }
-  } */
 `
 
 export default Delivery
