@@ -64,7 +64,7 @@ const Wrapper = styled.div`
       top: 1rem;
       right: 1rem;
       bottom: 1rem;
-      width: 7.5rem;
+      width: 8rem;
       h4 {
         text-align: right;
         span {
