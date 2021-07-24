@@ -1,0 +1,213 @@
+[
+  {
+    "id": 3223511,
+    "name": "Donut",
+    "url": "./images/S1.jpeg",
+    "stars": 4.8,
+    "price": { "small": 120, "medium": 145, "large": 165 },
+    "bestseller": true,
+    "category": "Solo"
+  },
+  {
+    "id": 9250123,
+    "name": "Peanut Butter",
+    "url": "./images/S2.jpeg",
+    "stars": 4.5,
+    "price": { "small": 95, "medium": 115, "large": 135 },
+    "featured": true,
+    "category": "Solo"
+  },
+  {
+    "id": 1333511,
+    "name": "Strawberry",
+    "url": "./images/S3.jpeg",
+    "stars": 4.2,
+    "price": { "small": 110, "medium": 130, "large": 150 },
+    "newProduct": true,
+    "category": "Solo"
+  },
+  {
+    "id": 6721134,
+    "name": "Coco",
+    "url": "./images/S4.jpeg",
+    "stars": 4.1,
+    "price": { "small": 105, "medium": 125, "large": 145 },
+    "category": "Solo"
+  },
+  {
+    "id": 3005123,
+    "name": "Cookie Overload",
+    "url": "./images/S5.jpeg",
+    "stars": 4.6,
+    "price": { "small": 105, "medium": 125, "large": 145 },
+    "newProduct": true,
+    "category": "Solo"
+  },
+  {
+    "id": 4010002,
+    "name": "Watermelon",
+    "url": "./images/S6.jpeg",
+    "stars": 4.1,
+    "price": { "small": 95, "medium": 115, "large": 135 },
+    "featured": true,
+    "category": "Solo"
+  },
+  {
+    "id": 2001355,
+    "name": "Mixed Chocolate",
+    "url": "./images/S7.jpeg",
+    "stars": 4.6,
+    "price": { "small": 115, "medium": 140, "large": 160 },
+    "category": "Solo"
+  },
+  {
+    "id": 7773462,
+    "name": "Salted Caramel",
+    "url": "./images/S8.jpeg",
+    "stars": 4.1,
+    "price": { "small": 115, "medium": 135, "large": 155 },
+    "category": "Solo"
+  },
+  {
+    "id": 3466777,
+    "name": "Ferrero",
+    "url": "./images/S9.jpeg",
+    "stars": 4.6,
+    "price": { "small": 120, "medium": 145, "large": 165 },
+    "featured": true,
+    "category": "Solo"
+  },
+  {
+    "id": 9955523,
+    "name": "Blueberry",
+    "url": "./images/S10.jpeg",
+    "stars": 4.9,
+    "price": { "small": 115, "medium": 140, "large": 160 },
+    "bestseller": true,
+    "featured": true,
+    "category": "Solo"
+  },
+  {
+    "id": 5573245,
+    "name": "Coffee",
+    "url": "./images/S11.jpeg",
+    "stars": 3.5,
+    "price": { "small": 95, "medium": 115, "large": 135 },
+    "category": "Solo"
+  },
+  {
+    "id": 8855522,
+    "name": "Cocktail",
+    "url": "./images/S12.jpeg",
+    "stars": 4.2,
+    "price": { "small": 95, "medium": 115, "large": 135 },
+    "category": "Solo"
+  },
+  {
+    "id": 1114211,
+    "name": "Cap'n Crunch",
+    "url": "./images/S13.jpeg",
+    "stars": 3.8,
+    "price": { "small": 95, "medium": 115, "large": 135 },
+    "newProduct": true,
+    "category": "Solo"
+  },
+  {
+    "id": 4423444,
+    "name": "Kiwi",
+    "url": "./images/D1.jpeg",
+    "stars": 3.6,
+    "price": { "small": 160, "medium": 200, "large": 250 },
+    "category": "Duo"
+  },
+  {
+    "id": 7111123,
+    "name": "Mixed Berry",
+    "url": "./images/D2.jpeg",
+    "stars": 4.5,
+    "price": { "small": 170, "medium": 210, "large": 260 },
+    "bestseller": true,
+    "newProduct": true,
+    "category": "Duo"
+  },
+  {
+    "id": 9000002,
+    "name": "Choco Banana",
+    "url": "./images/D3.jpeg",
+    "stars": 4.2,
+    "price": { "small": 160, "medium": 200, "large": 250 },
+    "category": "Duo"
+  },
+  {
+    "id": 4100332,
+    "name": "Pineapple",
+    "url": "./images/D4.jpeg",
+    "stars": 4.2,
+    "price": { "small": 160, "medium": 200, "large": 250 },
+    "category": "Duo"
+  },
+  {
+    "id": 2225555,
+    "name": "Combo Meal #1",
+    "url": "./images/CM1.jpeg",
+    "stars": 3.5,
+    "price": { "small": 250, "medium": 275, "large": 300 },
+    "category": "Combo"
+  },
+  {
+    "id": 5555222,
+    "name": "Combo Meal #2",
+    "url": "./images/CM2.jpeg",
+    "stars": 4.5,
+    "price": { "small": 350, "medium": 375, "large": 400 },
+    "category": "Combo"
+  },
+  {
+    "id": 9911123,
+    "name": "Combo Meal #3",
+    "url": "./images/CM3.jpeg",
+    "stars": 5,
+    "price": { "small": 325, "medium": 350, "large": 375 },
+    "category": "Combo"
+  },
+  {
+    "id": 9444123,
+    "name": "Combo Meal #4",
+    "url": "./images/CM4.jpeg",
+    "stars": 3.5,
+    "price": { "small": 300, "medium": 325, "large": 350 },
+    "category": "Combo"
+  },
+  {
+    "id": 1221111,
+    "name": "Combo Meal #5",
+    "url": "./images/CM5.jpeg",
+    "stars": 3.7,
+    "price": { "small": 270, "medium": 295, "large": 315 },
+    "category": "Combo"
+  },
+  {
+    "id": 1229900,
+    "name": "Combo Meal #6",
+    "url": "./images/CM6.jpeg",
+    "stars": 4.0,
+    "price": { "small": 270, "medium": 295, "large": 315 },
+    "category": "Combo"
+  },
+  {
+    "id": 3122231,
+    "name": "Combo Meal #7",
+    "url": "./images/CM7.jpeg",
+    "stars": 4.0,
+    "price": { "small": 315, "medium": 335, "large": 360 },
+    "category": "Combo"
+  },
+  {
+    "id": 4333101,
+    "name": "Combo Meal #8",
+    "url": "./images/CM8.jpeg",
+    "stars": 4.2,
+    "price": { "small": 270, "medium": 295, "large": 315 },
+    "category": "Combo"
+  }
+]
