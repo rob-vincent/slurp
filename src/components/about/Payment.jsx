@@ -43,7 +43,7 @@ export default styled(Payment)`
       grid-template-columns: repeat(2, 1fr);
       section {
         h4 {
-          font-size: 0.75rem;
+          font-size: 0.7rem;
         }
       }
     }
