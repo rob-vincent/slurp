@@ -28,7 +28,6 @@ export default styled(Payment)`
     grid-template-columns: repeat(4, 1fr);
     grid-gap: 1rem;
     section {
-      /* background: var(--primary-color-lighter); */
       border: 1px solid var(--dark-color);
       border-radius: 1rem;
       display: flex;
@@ -42,8 +41,6 @@ export default styled(Payment)`
     }
     @media (max-width: 560px) {
       grid-template-columns: repeat(2, 1fr);
-    }
-    @media (max-width: 400px) {
       section {
         h4 {
           font-size: 0.75rem;

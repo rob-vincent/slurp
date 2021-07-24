@@ -49,7 +49,7 @@ const Wrapper = styled.div`
   .card {
     flex: 0 0 16rem;
     margin: 2rem;
-    height: 22rem;
+    height: 23rem;
     text-align: center;
     background: rgba(255, 255, 255, 0.75);
     backdrop-filter: blur(0.5rem);
