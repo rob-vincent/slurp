@@ -1,10 +1,14 @@
-import React from 'react'
+import React, { useEffect } from 'react'
 import styled from 'styled-components'
 import location from '../images/Location.PNG'
 import { contacts } from '../utils/constants'
 import { MdMail } from 'react-icons/md'
 
 const Contact = () => {
+  useEffect(() => {
+    window.scrollTo(0, 0)
+  }, [])
+
   return (
     <Wrapper className='section-center'>
       <img src={location} alt='location' />

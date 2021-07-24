@@ -1,8 +1,12 @@
-import React from 'react'
+import React, { useEffect } from 'react'
 import { Hero, Album, Featured, Reviews, Facts } from '../components'
 import styled from 'styled-components'
 
 const Home = () => {
+  useEffect(() => {
+    window.scrollTo(0, 0)
+  }, [])
+
   return (
     <Wrapper className='section-center'>
       <Hero />

@@ -1,9 +1,13 @@
-import React from 'react'
+import React, { useEffect } from 'react'
 import { connect } from 'react-redux'
 import styled from 'styled-components'
 import { Filter, MenuContainer, Notice } from '../components'
 
 const Menu = ({ products }) => {
+  useEffect(() => {
+    window.scrollTo(0, 0)
+  }, [])
+
   return (
     <Wrapper className='section-center'>
       <Notice />
